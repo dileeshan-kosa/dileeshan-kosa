@@ -27,9 +27,6 @@
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50"/>
   </a>
-  <a href="https://www.wireshark.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Wireshark_icon.svg" alt="Wireshark" width="50"/>
-  </a>
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Dark.svg" alt="ReactJS" width="50"/>
   </a>
