@@ -7,8 +7,7 @@
 
 🎓 **Cyber Security Final Year Student** | 💻 **Aspiring Full Stack Developer** | 🛡️ **Cybersecurity Enthusiast**  
 
-I'm currently working on **Full Stack Development projects** and **Cybersecurity research**, with a special interest in **Reverse Engineering**.  
-My ultimate goal is to become a **world-class developer** while exploring the depths of **application security and exploit development**.  
+💻 **Final-year Cybersecurity student** with a strong focus on **Full Stack Development** and a growing passion for **Reverse Engineering**. I enjoy blending creativity and logic to build secure, efficient applications while continuously exploring the latest in security research and technology trends. My goal is to become a skilled developer who can innovate, protect, and push the boundaries of software security. 
 
 ---
 
@@ -81,16 +80,16 @@ I’m always looking for opportunities where I can **grow, solve challenges, and
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dileeshankosala&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />  
+  <img src="https://komarev.com/ghpvc/?username=dileeshan-kosa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />  
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dileeshankosala&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dileeshankosala&theme=tokyonight" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dileeshan-kosa&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dileeshan-kosa&theme=tokyonight" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dileeshankosala&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dileeshan-kosa&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -98,14 +97,9 @@ I’m always looking for opportunities where I can **grow, solve challenges, and
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL" target="_blank"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" width="40" alt="LinkedIn"/></a>
-  <a href="YOUR_EMAIL" target="_blank"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/email.svg" width="40" alt="Email"/></a>
-  <a href="YOUR_FACEBOOK_URL" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" alt="Facebook"/></a>
-  <a href="YOUR_INSTAGRAM_URL" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" alt="Instagram"/></a>
+  <a href="https://www.instagram.com/dileeshan_kosala" target="_blank"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" width="40" alt="LinkedIn"/></a>
+  <a href="dileeshankosala2@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/email.svg" width="40" alt="Email"/></a>
+  <a href="https://www.facebook.com/share/1EvoAw5SJV/?mibextid=wwXIfr" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/dileeshan_kosala" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" alt="Instagram"/></a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" alt="Coding Animation" width="400"/>
-</p>
