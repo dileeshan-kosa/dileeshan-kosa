@@ -7,7 +7,7 @@
 
 🎓 **Cyber Security Final Year Student** | 💻 **Aspiring Full Stack Developer** | 🛡️ **Cybersecurity Enthusiast**  
 
-💻 **Final-year Cybersecurity student** with a strong focus on **Full Stack Development** and a growing passion for **Reverse Engineering**. I enjoy blending creativity and logic to build secure, efficient applications while continuously exploring the latest in security research and technology trends. My goal is to become a skilled developer who can innovate, protect, and push the boundaries of software security. 
+💻 Final-year Cybersecurity student specializing in Full Stack Development. I thrive on combining creativity and logic to design secure, high-performance applications, while staying at the forefront of emerging security research and technology trends. My goal is to become a highly skilled developer who can innovate, safeguard, and advance the frontiers of software and cybersecurity. 
 
 ---
 
