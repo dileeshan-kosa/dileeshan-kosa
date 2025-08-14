@@ -14,7 +14,7 @@
 ## 🔧 Tech Stack
 
 - **Languages & Tools**: Python, Wireshark, Git, GitHub, VS Code, Postman, Figma  
-- **Frontend**: React.js, React Native, HTML, JavaScript, CSS, Tailwind CSS, Redux  
+- **Frontend**: HTML, React.js, React Native, JavaScript, CSS, Tailwind CSS, Redux  
 - **Backend**: Node.js, Express.js  
 - **Database**: MongoDB, MySQL  
 - **Currently Learning**: Ethical Hacking, Reverse Engineering, Application Security Engineering  
