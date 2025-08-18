@@ -66,6 +66,10 @@
   <a href="https://www.javascript.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="50"/>
   </a>
+  <a href="https://github.com/DileeshanKosala" target="_blank">
+  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/raw/master/src/images/icons/Social/github.svg" alt="GitHub" width="50"/>
+  </a>
+
 </p>
 
 ---
