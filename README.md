@@ -63,6 +63,9 @@
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50"/>
   </a>
+  <a href="https://www.javascript.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="50"/>
+  </a>
 </p>
 
 ---
