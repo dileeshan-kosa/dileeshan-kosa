@@ -69,6 +69,10 @@
   <a href="https://github.com/DileeshanKosala" target="_blank">
   <img src="https://github.com/rahuldkjain/github-profile-readme-generator/raw/master/src/images/icons/Social/github.svg" alt="GitHub" width="50"/>
   </a>
+  <a href="https://www.java.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50"/>
+</a>
+
 
 </p>
 
