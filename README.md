@@ -75,6 +75,11 @@
 <a href="https://www.docker.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50"/>
 </a>
+<a href="https://developer.android.com/studio" target="_blank">
+  <img src="https://github.com/Devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="50"/>
+</a>
+
+
 
 
 
