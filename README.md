@@ -15,7 +15,7 @@
 
 - **Languages & Tools**: Python, Wireshark, Git, GitHub, VS Code, Postman, Figma  
 - **Frontend**: React.js, React Native, JavaScript, HTML, CSS, Tailwind CSS, Redux  
-- **Backend**: Node.js, Express.js, python
+- **Backend**: Node.js, Express.js, python, Java
 - **Database**: MongoDB, Firebase, MySQL  
 - **Currently Learning**: Ethical Hacking, Reverse Engineering, Application Security Engineering  
 
