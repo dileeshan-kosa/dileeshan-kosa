@@ -116,7 +116,7 @@ I’m always looking for opportunities where I can **grow, solve challenges, and
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.instagram.com/dileeshan_kosala" target="_blank"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" width="40" alt="LinkedIn"/></a>
+  <a href="http://linkedin.com/in/dileeshan-kosala" target="_blank"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" width="40" alt="LinkedIn"/></a>
   <a href="dileeshankosala2@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/email.svg" width="40" alt="Email"/></a>
   <a href="https://www.facebook.com/share/1EvoAw5SJV/?mibextid=wwXIfr" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" alt="Facebook"/></a>
   <a href="https://www.instagram.com/dileeshan_kosala" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" alt="Instagram"/></a>
